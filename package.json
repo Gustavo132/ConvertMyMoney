@@ -1,0 +1,17 @@
+{
+  "name": "convertmymoney",
+  "version": "1.0.0",
+  "description": "Second Node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Gustavo Barros",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.2",
+    "express": "^4.17.1",
+    "jest": "^24.9.0"
+  }
+}
